@@ -1,4 +1,4 @@
-#~ name: NONE
+name: pgb_etc_dev
 
 channels:
   - conda-forge
