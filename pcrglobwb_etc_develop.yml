@@ -1,0 +1,25 @@
+#~ name: NONE
+
+channels:
+  - conda-forge
+  - nodefaults
+
+dependencies:
+  - python>=3.9
+  - pcraster
+  - python-dateutil
+  - six  
+  - zlib
+  - pip
+  - git
+  - xarray
+  - dask
+  - netCDF4
+  - bottleneck
+  - sphinx
+  - cdo
+  - nco
+  - ncview
+  - matplotlib
+
+    
