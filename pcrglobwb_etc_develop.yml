@@ -18,7 +18,8 @@ dependencies:
   - bottleneck
   - sphinx
   - myst-parser
-  - mermaid
+  - mermaid-py
+  - ipython
   - cdo
   - nco
   - ncview
