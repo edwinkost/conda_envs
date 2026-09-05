@@ -6,7 +6,8 @@ channels:
 
 dependencies:
   - python>=3.9
-  - pcraster
+  - numpy<2.0
+  - pcraster>=4.4.3
   - python-dateutil
   - six  
   - zlib
